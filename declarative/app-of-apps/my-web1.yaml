@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/sidd-harth/test-cd.git
+    repoURL: https://github.com/rroyhere/gitops-argocd.git
     targetRevision: HEAD
     path: ./declarative/manifests/web-1
    
